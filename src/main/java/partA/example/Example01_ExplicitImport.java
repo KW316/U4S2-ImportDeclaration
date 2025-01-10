@@ -8,5 +8,6 @@ public class Example01_ExplicitImport {
         System.out.println("Hello user, please enter a number.");
         int numEntered = sc.nextInt();
         System.out.println("You entered " + numEntered);
+        System.out.println();
     }
 }
